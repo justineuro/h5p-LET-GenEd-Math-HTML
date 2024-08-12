@@ -1,7 +1,7 @@
 # h5p-LET-GenEd-Math-HTML
 
 ## h5p-LET-GenEd-Math-HTML vs. h5p-LET-GenEd-Math
-[h5p-LET-GenEd-Math-HTML](https://github.com/justineuro/h5p-LET-GenEd-Math-HTML) is similar in content to [h5p-LET-GenEd-Math](https://github.com/justineuro/h5p-LET-GenEd-Math).  However, here, the seven (7) [H5P](https://h5p.org)s that are included in [h5p-LET-GenEd-Math](https://github.com/justineuro/h5p-LET-GenEd-Math)  (all of which are also included in this repository) were loaded into the [Lumi](https://app.lumi.education/) app and then exported as `HTML` as opposed to making them accessible by using [h5p-standalone v.3.7.0](https://github.com/tunapanda/h5p-standalone), as was done in [h5p-LET-GenEd-Math](https://github.com/justineuro/h5p-LET-GenEd-Math). Doing so, makes these [H5P](https://h5p.org)s easier to view in a simple browser.
+[h5p-LET-GenEd-Math-HTML](https://github.com/justineuro/h5p-LET-GenEd-Math-HTML) is similar in content to [h5p-LET-GenEd-Math](https://github.com/justineuro/h5p-LET-GenEd-Math).  However, here, the seven (7) [H5P](https://h5p.org)s that are included in [h5p-LET-GenEd-Math](https://github.com/justineuro/h5p-LET-GenEd-Math)  (all of which are also included in this repository) were loaded into the [Lumi](https://app.lumi.education/) app and then exported as `HTML`, as opposed to making them accessible by using [h5p-standalone v.3.7.0](https://github.com/tunapanda/h5p-standalone), as was done in [h5p-LET-GenEd-Math](https://github.com/justineuro/h5p-LET-GenEd-Math). Doing so, makes these [H5P](https://h5p.org)s easier to view in a simple browser.
 
 ## View H5P, Raw HTML, or Download H5P
 Click on one of the links to view/play [H5P](https://h5p.org) (then save page as a local copy), view raw HTML, or download the [H5P](https://h5p.org).
